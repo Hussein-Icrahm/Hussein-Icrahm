@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Hussein-Icrahm full of website and hacking loves poetry 
+- 👋 Hi, I’m @Hussein Icrahm f loves poetry 
 - 👀 I’m interested in knowing websiting
 - 🌱 I’m currently learning how to be a good developer and hacker
 
