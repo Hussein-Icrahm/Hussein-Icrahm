@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Hussein Icrahm f loves poetry 
-- 👀 I’m interested in knowing websiting
-- 🌱 I’m currently learning how to be a good developer and hacker
+- 👋 I'm currently learning to be a good developer 
+  -we will be unlearning to learn and we will still relearn 
+- poetry doesn't cure grief but it understands the way you will understand 
 
 <!---
 Hussein-Icrahm/Hussein-Icrahm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
